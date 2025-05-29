@@ -12,7 +12,7 @@ on:
     tags:
       - 'v*'
     branches:
-      - main
+      - chancen
 
 env:
   REGISTRY: ghcr.io
